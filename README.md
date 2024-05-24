@@ -1,4 +1,4 @@
-<h1>7 Go Tutorials</h1>h1>
+<h1>7 Go Tutorials</h1>
 <p>This repository contains 7 simple Go programming tutorials.</p>
 <p>You will learn about:</p>
 <ul>
