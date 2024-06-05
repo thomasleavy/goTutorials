@@ -1,5 +1,5 @@
 /*
-Before using this code, you must install go onto your system. Go to https://go.dev/dl/ and download the version appropriate for your device (i.e. the '.msi' file) and go through the installation process.
+Before using this code, you must install Go onto your system. Go to https://go.dev/dl/ and download the version appropriate for your device (i.e. the '.msi' file) and go through the installation process.
 */
 /*
 To verify if this has been downloaded, open the CMD prompt or PowerShell and type: go version. If a version is returned in the terminal, it is installed on your system.
