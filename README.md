@@ -10,3 +10,4 @@
 <li>Maps, and</li>
 <li>Functions</li>
   </ul>
+<img src="images/woahPicture.png" alt="woahPicture" />
